@@ -1,6 +1,8 @@
-## Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" width="30px"> I'm Theo van der Sluijs
-## I ❤️ coding 
-## and I'm from The Netherlands.
+<h2>
+    Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" width="30px"> I'm Theo van der Sluijs <br/>
+    I ❤️ coding  <br/>
+    and I'm from The Netherlands.
+</h2>
 <br/>
 
 ![From Holland!](https://itheo.nl/wp-content/uploads/2021/02/background-vandersluijs.jpg)
@@ -11,7 +13,7 @@
 
 <br/>
 
-:rocket:  Who am I?
+### :rocket:  Who am I?
 
 ```python
 class tvdSluijs:
@@ -34,6 +36,6 @@ class tvdSluijs:
 Just send me a mail on theo[@]vandersluijs.nl, give me a ping on +31[0]628135526
 
 
-### Find me on
+### :mag: Find me on
 
 [itheo.tech](https://itheo.tech)
