@@ -1,4 +1,4 @@
-### Hello! Theo van der Sluijs here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+### Hello! Theo van der Sluijs here <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/blob/main/wave.gif" width="30px">
 
 <!--
 **tvdsluijs/tvdsluijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
