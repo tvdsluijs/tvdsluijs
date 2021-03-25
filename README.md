@@ -1,8 +1,6 @@
-<h2 style="text-align: center;">Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" width="30px"> 
-I'm Theo van der Sluijs
-<br/>I ❤️ coding 
-<br/> and I'm from The Netherlands.
-</h2>
+## Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" width="30px"> I'm Theo van der Sluijs
+## I ❤️ coding 
+## and I'm from The Netherlands.
 <br/>
 
 ![From Holland!](https://itheo.nl/wp-content/uploads/2021/02/background-vandersluijs.jpg)
@@ -13,7 +11,7 @@ I'm Theo van der Sluijs
 
 <br/>
 
-🤔  Who am I?
+:rocket:  Who am I?
 
 ```python
 class tvdSluijs:
