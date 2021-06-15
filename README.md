@@ -18,10 +18,13 @@
 ```python
 class TvdSluijs:
     def __init__(self):
+        self.firstname = "Theo"
+        self.lastname = "van der Sluijs"
         self.breed = "Human"
         self.gender = "Male"
         self.profession = ['Software Development Manager', 'Team Lead', 'Developer']
-        self.firstlogin = "14 May 1975 "
+        self.firstlogin = "14 May 1975"
+        self.loginat = "Rotterdam"
         self.habitant = "The Netherlands"
         self.codeofhonor = ['PHP', 'Python', 'HTML', 'Bash', 'Java']
         self.goodwith = ['SEO', 'vsCode', 'IntelliJ', 'PyCharm', 'Wordpress', 'Divi']
