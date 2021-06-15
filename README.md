@@ -13,7 +13,7 @@
 
 <br/>
 
-### :rocket:  Who am I?
+### 🚀 Who am I?
 
 ```python
 class tvdSluijs:
@@ -36,6 +36,6 @@ class tvdSluijs:
 Just send me a mail on theo[@]vandersluijs.nl, give me a ping on +31[0]628135526
 
 
-### :mag: Find me on
+### 🔍 Find me on
 
 [itheo.tech](https://itheo.tech)
