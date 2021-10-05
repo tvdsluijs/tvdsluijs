@@ -28,9 +28,9 @@ class TvdSluijs:
         self.habitant = "The Netherlands"
         self.codeofhonor = ['PHP', 'Python', 'HTML', 'Bash', 'Java']
         self.goodwith = ['SEO', 'vsCode', 'IntelliJ', 'PyCharm', 'Wordpress', 'Divi']
-        self.fanof = ['Apple', 'RaspberryPi', 'My family', 'Ubiquiti', 'Star Trek']
+        self.fanof = ['Apple', 'Raspberry Pi', 'My family', 'Ubiquiti', 'Star Trek', 'Freeletics']
         self.slogan = "Never give Up! Never Surrender!"
-        self.challenge = "Focused on learning Java"
+        self.challenge = "Focused on learning something new!"
 ```
 
 ### 📫 Connect with me
