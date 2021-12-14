@@ -5,7 +5,7 @@
 </h2>
 <br/>
 
-![From Holland!](https://itheo.nl/wp-content/uploads/2021/02/background-vandersluijs.jpg)
+![From Holland!](https://tvdsluijs.github.io/itheo-background.jpeg)
 
 <br/>
 
