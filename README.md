@@ -5,7 +5,7 @@
 </h2>
 <br/>
 
-![From Holland!](https://tvdsluijs.github.io/itheo-background.jpeg)
+![From Holland!](https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/itheo-background.jpeg)
 
 <br/>
 
