@@ -41,7 +41,7 @@ Just send me a mail on theo[@]vandersluijs.nl, give me a ping on +31[0]628135526
 
 ### 🔍 Find me on
 [![itheo.tech](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=Ghost&logoColor=brightgreen)](https://itheo.tech)
-[![vandersluijs.nl](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=WordPress&logoColor=brightgreen)](https://vandersluijs.nl)
+[![vandersluijs.nl](https://img.shields.io/badge/vanderSluijs-100000?style=for-the-badge&logo=WordPress&logoColor=brightgreen)](https://vandersluijs.nl)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itheo_nl)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvandersluijs/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tvdsluijs)
