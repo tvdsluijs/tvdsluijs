@@ -33,6 +33,8 @@ class TvdSluijs:
         self.slogan = "Never give Up! Never Surrender!"
         self.challenge = "Focused on learning something new!"
 ```
+<img style="float: left;" src="https://github-readme-streak-stats.herokuapp.com?user=tvdsluijs&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=tvdsluijs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvdsluijs&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
