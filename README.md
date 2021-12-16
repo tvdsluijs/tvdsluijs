@@ -1,7 +1,9 @@
+<img style="float: right;height:150px;width:150px;" src="tvdsluijs-theo-van-der-sluijs.png"/>
 <h2>
     Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" width="30px"> I'm Theo van der Sluijs <br/>
     I ❤️ coding  <br/>
     and I'm from The Netherlands.
+    
 </h2>
 <br/>
 
@@ -28,10 +30,12 @@ class TvdSluijs:
         self.habitant = "The Netherlands"
         self.codeofhonor = ['PHP', 'Python', 'HTML', 'Bash', 'Java']
         self.goodwith = ['SEO', 'vsCode', 'IntelliJ', 'PyCharm', 'Wordpress', 'Divi']
-        self.fanof = ['Apple', 'Raspberry Pi', 'My family', 'Ubiquiti', 'Star Trek', 'Freeletics']
+        self.fanof = ['Apple', 'Raspberry Pi', 'My family', 'Ubiquiti', 'Star Trek', 'MTB']
         self.slogan = "Never give Up! Never Surrender!"
         self.challenge = "Focused on learning something new!"
 ```
+
+http://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tvdsluijs&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D
 
 ### 📫 Connect with me
 
