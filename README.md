@@ -1,4 +1,3 @@
-<img style="float: right;height:150px;width:150px;" src="tvdsluijs-theo-van-der-sluijs.png"/>
 <h2>
     Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" width="30px"> I'm Theo van der Sluijs <br/>
     I ❤️ coding  <br/>
