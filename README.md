@@ -34,7 +34,7 @@ class TvdSluijs:
         self.challenge = "Focused on learning something new!"
 ```
 
-http://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tvdsluijs&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D
+<img src="http://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=tvdsluijs&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 ### 📫 Connect with me
 
