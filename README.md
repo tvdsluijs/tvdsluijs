@@ -36,7 +36,7 @@ class TvdSluijs:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvdsluijs&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvdsluijs&show_icons=true&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvdsluijs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://git.io/streak-stats)
 
 ### 📫 Connect with me
 
