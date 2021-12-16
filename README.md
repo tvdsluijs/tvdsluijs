@@ -33,13 +33,6 @@ class TvdSluijs:
         self.slogan = "Never give Up! Never Surrender!"
         self.challenge = "Focused on learning something new!"
 ```
-<img style="float: left;" src="https://github-readme-streak-stats.herokuapp.com?user=tvdsluijs&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api?username=tvdsluijs&show_icons=true&theme=vue&hide_border=true&hide_title=true"/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tvdsluijs&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tvdsluijs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&hide_title=true)](https://git.io/streak-stats)
-
 ### 📫 Connect with me
 
 
@@ -47,7 +40,8 @@ Just send me a mail on theo[@]vandersluijs.nl, give me a ping on +31[0]628135526
 
 
 ### 🔍 Find me on
-[![itheo.tech](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=WordPress&logoColor=brightgreen)](https://itheo.tech)
+[![itheo.tech](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=Ghost&logoColor=brightgreen)](https://itheo.tech)
+[![vandersluijs.nl](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=WordPress&logoColor=brightgreen)](https://vandersluijs.nl)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itheo_nl)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvandersluijs/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tvdsluijs)
