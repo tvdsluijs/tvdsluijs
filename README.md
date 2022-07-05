@@ -1,5 +1,5 @@
 <h2>
-    Hello <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" style="max-width:30px"> I'm Theo van der Sluijs <br/>
+    Hello, <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" style="max-width:30px" width="30px" height="30p"/> I'm Theo van der Sluijs <br/>
     I ❤️ coding <br/>
     and I'm from The Netherlands.
     
