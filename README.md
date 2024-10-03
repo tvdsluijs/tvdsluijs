@@ -1,7 +1,7 @@
 <h2>
     Hello, <img src="https://raw.githubusercontent.com/tvdsluijs/tvdsluijs/main/wave.gif" style="max-width:30px" width="30px" height="30p"/> I'm Theo van der Sluijs <br/>
     I ❤️ coding, I 💡 a lot about energy transition and I'm from The Netherlands 🇳🇱.
-    
+
 </h2>
 <br/>
 
@@ -43,6 +43,6 @@ Just send me a mail on theo[@]vandersluijs[.]nl, give me a ping on +3l[0]628l355
 [![vandersluijs.nl](https://img.shields.io/badge/vanderSluijs-100000?style=for-the-badge&logo=WordPress&logoColor=brightgreen)](https://vandersluijs.nl)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvandersluijs/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tvdsluijs)
-
+[![theovandersluijs.eu](https://img.shields.io/badge/theovanderSluijs-100000?style=for-the-badge&logo=github&logoColor=white)](https://theovandersluijs.eu)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
