@@ -39,10 +39,8 @@ Just send me a mail on theo[@]vandersluijs[.]nl, give me a ping on +3l[0]628l355
 
 
 ### 🔍 Find me on
-[![itheo.tech](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=hashnode&logoColor=brightgreen)](https://itheo.tech)
-[![vandersluijs.nl](https://img.shields.io/badge/vanderSluijs-100000?style=for-the-badge&logo=WordPress&logoColor=brightgreen)](https://vandersluijs.nl)
+[![itheo.tech](https://img.shields.io/badge/iTheo-100000?style=for-the-badge&logo=hashnode&logoColor=#f5e642)](https://itheo.tech)
+[![vandersluijs.nl](https://img.shields.io/badge/vanderSluijs-100000?style=for-the-badge&logo=github&logoColor=brightgreen)](https://vandersluijs.nl)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvandersluijs/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tvdsluijs)
 [![theovandersluijs.eu](https://img.shields.io/badge/theovanderSluijs-100000?style=for-the-badge&logo=github&logoColor=white)](https://theovandersluijs.eu)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
